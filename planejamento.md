@@ -19,3 +19,11 @@ executar operações de manipulação de dados.
 
 ### Parte 2
 ...
+
+
+### Repositorio
+Adicionar .gitignore 
+Adicionar requirements.txt
+
+## Relatório
+Pelo repositorio com as explicações em Markdown
