@@ -5,8 +5,11 @@
 
 ## Prática: 
 Dividido em 3 partes:
+
 Parte 1 – CRUD Relacional
+
 Parte 2 – CRUD NoSQL
+
 Parte 3 – Integração de dados (a ser definida)
 
 ### Parte 1
